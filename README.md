@@ -26,7 +26,7 @@ The bank seeks to optimize its marketing strategies by identifying clients most 
 
 
 
-* `assignment_17_classifier.py`: The primary Python script containing the code for data preprocessing, exploratory analysis, model training, and evaluation.
+* `Comparing_Classifiers.ipynb`: The primary Python script containing the code for data preprocessing, exploratory analysis, model training, and evaluation.
 * `README.md`: This file, providing an overview of the project and instructions.
 * `data/`: Directory to store datasets (e.g., `bank-additional-full.csv`).
 * `images/`: Directory for saving generated plots and visualizations.
