@@ -67,17 +67,9 @@ The bank seeks to optimize its marketing strategies by identifying clients most 
 * The Decision Tree showed a tendency to overfit but is useful for interpretability.
 * KNN performed adequately but was outperformed by the other models*
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/image4.png "image_tooltip")
 
 * The model with the least training time is 'Baseline', while the model with the most training time is 'SVM'.
-
-    
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](images/image2.png "image_tooltip")
 
@@ -96,11 +88,7 @@ The bank seeks to optimize its marketing strategies by identifying clients most 
 * **GridSearchCV:** This technique played a crucial role in optimizing hyperparameters for various models (Logistic Regression, KNN, Decision Tree, and SVM). Tuning the hyperparameters significantly increased both train and test accuracy, minimizing overfitting and boosting overall performance.
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/image1.png "image_tooltip")
 
 
 
@@ -113,11 +101,7 @@ The bank seeks to optimize its marketing strategies by identifying clients most 
 * **GridSearchCV:** This technique significantly increased the training time for all models, as it involves evaluating multiple hyperparameter combinations. However, the improved accuracy and model robustness often outweigh the increased training time.
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/image3.png "image_tooltip")
 
 
 **Overall Summary:**
