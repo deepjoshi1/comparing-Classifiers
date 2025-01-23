@@ -3,7 +3,8 @@
 
 ## **Overview**
 
-This project involves comparing the performance of four classification models: Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees, and Support Vector Machines (SVM). The objective is to predict whether a bank client will subscribe to a term deposit, based on data from marketing campaigns of a Portuguese banking institution.
+This project involves comparing the performance of four classification models: Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees, and Support Vector Machines (SVM).
+The objective is to predict whether a bank client will subscribe to a term deposit, based on data from marketing campaigns of a Portuguese banking institution.
 
 The dataset is sourced from the UCI Machine Learning Repository and contains information about clients, their previous interactions with the bank, and economic indicators.
 
@@ -38,7 +39,7 @@ The bank seeks to optimize its marketing strategies by identifying clients most 
 
 1. **Data Loading and Exploration**
     * Data is loaded into a Pandas DataFrame and inspected for missing values, data types, and distributions.
-    * Exploratory Data Analysis (EDA) includes visualizations such as histograms, box plots, and correlation heatmaps.
+    * Exploratory Data Analysis (EDA) includes visualizations such as histograms and box plots.
 2. **Feature Engineering**
     * Unnecessary features (e.g., `duration`) were dropped based on dataset documentation.
     * Categorical features were one-hot encoded, and the target variable was mapped to binary values (`yes` -> 1, `no` -> 0).
